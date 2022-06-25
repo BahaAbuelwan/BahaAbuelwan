@@ -34,7 +34,7 @@ These skills were learned at the Meraki Academy Bootcamp.
 - <p>Nasa Project (Built via online courses with Zero To Mastery Academy)</p>
 
 ## Profile Views
-<img src="https://profile-counter.glitch.me/mukul98s/count.svg">
+<img src="https://profile-counter.glitch.me/BahaAbuelwan/count.svg">
 
 <br />
 
