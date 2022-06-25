@@ -45,9 +45,4 @@ These skills were learned at the Meraki Academy Bootcamp.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BahaAbuelwan&theme=dark&layout=compact)
 
 
-
-### :fire: My Stats :
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BahaAbuelwan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahaAbuelwan&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 💬 Please feel free to contact me via [![Linkedin Badge](https://img.shields.io/badge/-Baha'-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bahaabuelwan/) .I'm always looking forward to an insightful conversation over new technology, or even better, your achievements!
