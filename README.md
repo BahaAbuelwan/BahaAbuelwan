@@ -42,7 +42,7 @@ These skills were learned at the Meraki Academy Bootcamp.
 ![Baha' GitHub stats](https://github-readme-stats.vercel.app/api?username=BahaAbuelwan&count_private=true&show_icons=true&theme=dark)
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukul98s&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BahaAbuelwan&theme=dark&layout=compact)
 
 
 
