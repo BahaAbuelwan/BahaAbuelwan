@@ -23,17 +23,6 @@ My specialties include quickly learning new skills and programming languages pro
 ,<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 ,<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;.
 
-These skills were learned at the Meraki Academy Bootcamp.
-
-🔭 I'm a Software Engineer @ MakanE in Amman, Jordan
-
-🔍 I have 3 projects:
-- <p>e-Auction</p> 
-- <p>Ecma Shop (E-commerce computer)</p>
--  <p>Deva Shop (E-commerce Electricshop shop)</p>
-- <p>Baha' Movies (note taking)</p>
-
-
 ## Profile Views
 <img src="https://profile-counter.glitch.me/BahaAbuelwan/count.svg">
 
