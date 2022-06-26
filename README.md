@@ -29,9 +29,10 @@ These skills were learned at the Meraki Academy Bootcamp.
 
 🔍 I have 3 projects:
 - <p>e-Auction</p> 
-- <p>Travaleo (Flight Booking)</p>
-- <p>Manage Life (note taking)</p>
-- <p>Nasa Project (Built via online courses with Zero To Mastery Academy)</p>
+- <p>Ecma Shop (E-commerce computer)</p>
+-  <p>Deva Shop (E-commerce Electricshop shop)</p>
+- <p>Baha' Movies (note taking)</p>
+
 
 ## Profile Views
 <img src="https://profile-counter.glitch.me/BahaAbuelwan/count.svg">
