@@ -1,43 +1,55 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BahaAbuelwan.BahaAbuelwan">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Baha'+Abu-Elwan....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/bahaabuelwan/" title="LinkedIn Profile"><img width="22" src="image/linkedin.svg"> LinkedIn</a></code> 
+  <code><a href="https://www.instagram.com/baha__abuelwan/" title="Instagram Profile"><img width="22" src="image/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&color=F73569&lines=Hi+I'm+Baha'+Abu-Elwan+">
+  Hi, I'm Baha' Abu-Elwan, Full-Stack Web Development from Jordan
+  <br>
+
+  <br>
+  🎓 I graduated from Meraki Academy Bootcamp
+  <br>
+  🎓 I graduated from University Of Jordan as a Civil Engineer 
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  <!-- 📚 I’m currently learning how to build E-Commerce Website with Django
+  <br> -->
+  💬 Ask me anything about from <a href="https://github.com/BahaAbuelwan/BahaAbuelwan/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: baha.abuellwan@gmail.com">osmandurdag@hotmail.com</a>
 </p>
-<div>
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
 <p align="center">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  </div>
-</br>
-
-I'm a Full-stack Developer(MERN stack) who is passionate to learn new technology and turn ideas
-into something tangible.I aspire to make my mark in the world.
-
-
-My specialties include quickly learning new skills and programming languages problem solving,build and publish a NPM  𝐩𝐚𝐜𝐤𝐚𝐠𝐞, I have  
-<br/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;,
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;.
-
-## Profile Views
-<img src="https://profile-counter.glitch.me/BahaAbuelwan/count.svg">
-
-<br />
-
-## Baha' Github Stats
-![Baha' GitHub stats](https://github-readme-stats.vercel.app/api?username=BahaAbuelwan&count_private=true&show_icons=true&theme=dark)
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BahaAbuelwan&show_icons=true&theme=radical)
-
-<br />
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BahaAbuelwan&theme=radical)](https://git.io/streak-stats) 
-<br /> -->
-
-💬 Please feel free to contact me via [![Linkedin Badge](https://img.shields.io/badge/-Baha'-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bahaabuelwan/) .I'm always looking forward to an insightful conversation over new technology, or even better, your achievements!
+  
+  <code><img title="Javascript" height="25" src="image/javascript.svg"></code>
+  <code><img title="Node.js" height="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+  <code><img title="Problem Solving" height="25" src="image/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="image/html5.svg"></code>
+  <code><img title="CSS" height="25" src="image/css.svg"></code>
+  <code><img title="React" height="25" src="image/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="image/redux.svg"></code>
+  <code><img title="Git" height="25" src="image/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="image/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="image/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="image/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="image/json.svg"></code>
+  <code><img title="GitHub" height="25" src="image/github.svg"></code>
+  <code><img title="MySQL" height="25" src="image/mysql.svg"></code>
+  <code><img title="npm" height="25" src="image/npm.svg"></code>
+  
+</p>
+<hr>
