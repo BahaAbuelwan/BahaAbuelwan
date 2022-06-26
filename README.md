@@ -73,6 +73,9 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=BahaAbuelwan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BahaAbuelwan&show_icons=true&theme=radical)
+
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
