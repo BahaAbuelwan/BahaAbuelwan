@@ -25,9 +25,9 @@
   <br>
   <!-- 📚 I’m currently learning how to build E-Commerce Website with Django
   <br> -->
-  💬 Ask me anything about from <a href="https://github.com/BahaAbuelwan/BahaAbuelwan/issues" title="Issues">Here</a>
+  💬 Ask me about anything from <a href="https://github.com/BahaAbuelwan/BahaAbuelwan/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: baha.abuellwan@gmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: baha.abuellwan@gmail.com">baha.abuellwan@gmail.com</a>
 </p>
 
 <hr>
